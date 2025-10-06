@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Projet 1 Feuille 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01CD740-2A53-4F35-9D40-7F9034A224F0}|Projet 1 Feuille 3\\Projet 1 Feuille 3.vcxproj|G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\p1f3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E01CD740-2A53-4F35-9D40-7F9034A224F0}|Projet 1 Feuille 3\\Projet 1 Feuille 3.vcxproj|solutionrelative:Projet 1 Feuille 3\\p1f3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0E86741-9188-43C9-A40B-C5A8982904F6}|..\\Partie 1\\Project1\\Project1.vcxproj|G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Partie 1\\Project1\\Project 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p1f3.cpp",
+              "DocumentMoniker": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\p1f3.cpp",
+              "RelativeDocumentMoniker": "Projet 1 Feuille 3\\p1f3.cpp",
+              "ToolTip": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Projet 1 Feuille 3\\Projet 1 Feuille 3\\p1f3.cpp",
+              "RelativeToolTip": "Projet 1 Feuille 3\\p1f3.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwIkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T20:46:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Project 1.cpp",
+              "DocumentMoniker": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Partie 1\\Project1\\Project 1.cpp",
+              "RelativeDocumentMoniker": "..\\Partie 1\\Project1\\Project 1.cpp",
+              "ToolTip": "G:\\Mon Drive\\1 Premi\u00E8re ann\u00E9e\\Projets Cours\\Partie 1\\Project1\\Project 1.cpp",
+              "RelativeToolTip": "..\\Partie 1\\Project1\\Project 1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-06T20:16:49.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

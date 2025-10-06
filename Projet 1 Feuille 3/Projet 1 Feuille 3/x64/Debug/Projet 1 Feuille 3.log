@@ -1,0 +1,5 @@
+﻿  p1f3.cpp
+G:\Mon Drive\1 Première année\Projets Cours\Projet 1 Feuille 3\Projet 1 Feuille 3\p1f3.cpp(29,28): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+G:\Mon Drive\1 Première année\Projets Cours\Projet 1 Feuille 3\Projet 1 Feuille 3\p1f3.cpp(36,22): warning C4244: '*=' : conversion de 'double' en 'int', perte possible de données
+G:\Mon Drive\1 Première année\Projets Cours\Projet 1 Feuille 3\Projet 1 Feuille 3\p1f3.cpp(41,22): warning C4244: '*=' : conversion de 'double' en 'int', perte possible de données
+  Projet 1 Feuille 3.vcxproj -> G:\Mon Drive\1 Première année\Projets Cours\Projet 1 Feuille 3\x64\Debug\Projet 1 Feuille 3.exe
