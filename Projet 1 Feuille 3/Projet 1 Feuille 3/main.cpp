@@ -1,5 +1,4 @@
 #include <iostream>
-
 void EntierPairs()
 {
 	int n = 0;
